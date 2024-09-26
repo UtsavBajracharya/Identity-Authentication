@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Personal Projects\\C#\\Identity-Authentication\\AuthIdentity\\AuthIdentity\\AuthIdentity.csproj": {}
+    "D:\\Personal Projects\\C#\\Identity-Authentication\\AuthIdentity\\AuthIdentity.csproj": {}
   },
   "projects": {
-    "D:\\Personal Projects\\C#\\Identity-Authentication\\AuthIdentity\\AuthIdentity\\AuthIdentity.csproj": {
+    "D:\\Personal Projects\\C#\\Identity-Authentication\\AuthIdentity\\AuthIdentity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Personal Projects\\C#\\Identity-Authentication\\AuthIdentity\\AuthIdentity\\AuthIdentity.csproj",
+        "projectUniqueName": "D:\\Personal Projects\\C#\\Identity-Authentication\\AuthIdentity\\AuthIdentity.csproj",
         "projectName": "AuthIdentity",
-        "projectPath": "D:\\Personal Projects\\C#\\Identity-Authentication\\AuthIdentity\\AuthIdentity\\AuthIdentity.csproj",
+        "projectPath": "D:\\Personal Projects\\C#\\Identity-Authentication\\AuthIdentity\\AuthIdentity.csproj",
         "packagesPath": "C:\\Users\\Utsav\\.nuget\\packages\\",
-        "outputPath": "D:\\Personal Projects\\C#\\Identity-Authentication\\AuthIdentity\\AuthIdentity\\obj\\",
+        "outputPath": "D:\\Personal Projects\\C#\\Identity-Authentication\\AuthIdentity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Utsav\\AppData\\Roaming\\NuGet\\NuGet.Config",

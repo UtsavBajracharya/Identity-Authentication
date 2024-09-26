@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuthIdentity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c26e60fd371f2648c1f9c5bb2e0997c7516ba1f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuthIdentity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuthIdentity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
